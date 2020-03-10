@@ -1,0 +1,91 @@
+Tutorial
+Console
+— — — Code — — —
+{
+    "origin": [
+        "Your #number# @ #verb#",
+        "Your #number# @ probably #verb#",
+        "Your #number# @ and your #number# @ #verb#",
+        "Your #number# @ when you type the letter #letter# (for example, type @a and see the suggested @'s) #verb#",
+                "#interjection#! Your #number# @ #verb#"
+    ],
+    "number": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th",
+        "5th",
+        "6th",
+        "7th",
+        "8th",
+        "9th",
+        "10th"
+    ],
+    "letter": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z"
+    ],
+    "verb": [
+        "is #noun#",
+        "is #adj#",
+        "is #verbPresent#",
+        "has #noun#",
+        "has #verbPast#",
+        "was #noun#",
+        "was #adj#",
+        "#verbPast#",
+        "will be #noun#",
+        "will be #adj#",
+        "will #verbFuture"
+    ],
+    "noun": [
+        "dirt",
+        "a jerk",
+        "Fanboy (From Fanboy and Chum Chum)",
+        "Four from BfB",
+        "a gamer",
+        "a Morgz fan"
+    ],
+    "adj": [
+        "dead",
+        "a Spy!",
+        "depressed",
+        "horny",
+        "beautiful",
+        "ExplainBarfBag in Disguise"
+    ],
+    "verbPresent": [
+        "dying"
+    ],
+    "verbPast": [
+        "died"
+    ],
+    "verbFuture": [
+        "die"
+    ],
+        "interjection": ["Wow", "Dude", "Bro", "Holy Shit", "No", "Yes"]
+}
