@@ -7,7 +7,7 @@
 		"#interjection#! Your #number# @ #verb#",
 		"You and your #number# @ #verbPlural#",
 		"I know that you secretly want your #number# @ to #verbFuture#",
-		"#interjection#! Your #number# @ when you type the letter #letter# (for example, type @a and see the suggested @'s) #verb# "
+		"#interjection#! Your #number# @ when you type the letter #letter# (for example, type @a and see the suggested @'s) #verb# "
 	],
 	"number": [
 		"1st",
@@ -88,11 +88,16 @@
 		"a gamer",
 		"a Morgz fan",
 		"your mom",
-		"",
-		"",
+		"The Kool Aid Man",
+		"chicken nuggets",
 		"your #number# @",
 		"beef with #noun#",
-		"@SteffanScripts"
+		"@SteffanScripts",
+		"@spongy_bfb",
+		"@cursedSpongy",
+		"JacknJellify",
+		"coronavirus",
+		"bus"
 	],
 	"adj": [
 		"dead",
@@ -101,7 +106,8 @@
 		"horny",
 		"beautiful",
 		"cocky",
-		"thicc"
+		"thicc",
+		"valid"
 	],
 	"verbPresent": [
 		"dying",
@@ -113,7 +119,8 @@
 		"fucks #noun#",
 		"stans #ships#",
 		"stans #noun#",
-		"ships #ships#"
+		"ships #ships#",
+		"getting #noun#"
 	],
 	"verbPast": [
 		"died",
@@ -121,9 +128,11 @@
 		"spied on #noun#",
 		"kidnapped #noun#",
 		"killed #noun#",
-		"stanned #ships# ",
+		"stanned #ships# ",
 		"stanned #noun#",
-		"shipped #ships#"
+		"shipped #ships#",
+		"got #noun#",
+		"stole #noun# from #noun#"
 	],
 	"verbFuture": [
 		"die",
@@ -133,7 +142,8 @@
 		" fall into the River in LEGO City",
 		"kill #noun#",
 		"stan #noun#",
-		"ship #ships#"
+		"ship #ships#",
+		"get #noun#"
 	],
 	"interjection": [
 		"Wow",
@@ -141,13 +151,16 @@
 		"Bro",
 		"Holy Shit",
 		"No",
-		"Yes"
+		"Yes",
+		"Oh Baby",
+		"OMG"
 	],
-	"Ships": [
+	"ships": [
 		"Nobody",
 		"Spongy x Barf Bag (Battle for BFDI)",
 		"Test Tube x Lightbulb (Inanimate Insanity II)",
-		"",
-		"Taco x Book (Battle For BFDI)"
+		"Taco x Book (Battle For BFDI)",
+		"Ice Cube x Bracelety (Battle For BFDI)",
+		"Extension Cord x Diamond (Open Source Objects)"
 	]
 }
