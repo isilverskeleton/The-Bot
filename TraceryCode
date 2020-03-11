@@ -1,91 +1,153 @@
-Tutorial
-Console
-— — — Code — — —
 {
-    "origin": [
-        "Your #number# @ #verb#",
-        "Your #number# @ probably #verb#",
-        "Your #number# @ and your #number# @ #verb#",
-        "Your #number# @ when you type the letter #letter# (for example, type @a and see the suggested @'s) #verb#",
-                "#interjection#! Your #number# @ #verb#"
-    ],
-    "number": [
-        "1st",
-        "2nd",
-        "3rd",
-        "4th",
-        "5th",
-        "6th",
-        "7th",
-        "8th",
-        "9th",
-        "10th"
-    ],
-    "letter": [
-        "a",
-        "b",
-        "c",
-        "d",
-        "e",
-        "f",
-        "g",
-        "h",
-        "i",
-        "j",
-        "k",
-        "l",
-        "m",
-        "n",
-        "o",
-        "p",
-        "q",
-        "r",
-        "s",
-        "t",
-        "u",
-        "v",
-        "w",
-        "x",
-        "y",
-        "z"
-    ],
-    "verb": [
-        "is #noun#",
-        "is #adj#",
-        "is #verbPresent#",
-        "has #noun#",
-        "has #verbPast#",
-        "was #noun#",
-        "was #adj#",
-        "#verbPast#",
-        "will be #noun#",
-        "will be #adj#",
-        "will #verbFuture"
-    ],
-    "noun": [
-        "dirt",
-        "a jerk",
-        "Fanboy (From Fanboy and Chum Chum)",
-        "Four from BfB",
-        "a gamer",
-        "a Morgz fan"
-    ],
-    "adj": [
-        "dead",
-        "a Spy!",
-        "depressed",
-        "horny",
-        "beautiful",
-        "ExplainBarfBag in Disguise"
-    ],
-    "verbPresent": [
-        "dying"
-    ],
-    "verbPast": [
-        "died"
-    ],
-    "verbFuture": [
-        "die"
-    ],
-        "interjection": ["Wow", "Dude", "Bro", "Holy Shit", "No", "Yes"]
+	"origin": [
+		"Your #number# @ #verb#",
+		"Your #number# @ probably #verb#",
+		"Your #number# @ and your #number# @ #verbPlural#",
+		"Your #number# @ when you type the letter #letter# (for example, type @a and see the suggested @'s) #verb#",
+		"#interjection#! Your #number# @ #verb#",
+		"You and your #number# @ #verbPlural#",
+		"I know that you secretly want your #number# @ to #verbFuture#",
+		"#interjection#! Your #number# @ when you type the letter #letter# (for example, type @a and see the suggested @'s) #verb# "
+	],
+	"number": [
+		"1st",
+		"2nd",
+		"3rd",
+		"4th",
+		"5th",
+		"6th",
+		"7th",
+		"8th",
+		"9th",
+		"10th"
+	],
+	"letter": [
+		"a",
+		"b",
+		"c",
+		"d",
+		"e",
+		"f",
+		"g",
+		"h",
+		"i",
+		"j",
+		"k",
+		"l",
+		"m",
+		"n",
+		"o",
+		"p",
+		"q",
+		"r",
+		"s",
+		"t",
+		"u",
+		"v",
+		"w",
+		"x",
+		"y",
+		"z"
+	],
+	"verb": [
+		"is #noun#",
+		"is #adj#",
+		"is #verbPresent#",
+		"has #noun#",
+		"has #verbPast#",
+		"was #noun#",
+		"was #adj#",
+		"#verbPast#",
+		"will be #noun#",
+		"will be #adj#",
+		"will #verbFuture#",
+		"wants #noun# to #verbFuture#",
+		"likes #noun#",
+		"thinks #noun# #verb#"
+	],
+	"verbPlural": [
+		"are #noun#",
+		"are #adj#",
+		"are #verbPresent#",
+		"have #noun#",
+		"have #verbPast#",
+		"were #noun#",
+		"were #adj#",
+		"#verbPast#",
+		"will be #noun#",
+		"will be #adj#",
+		"will #verbFuture#",
+		"want #noun# to #verbFuture#",
+		"thinks #noun# #verb#"
+	],
+	"noun": [
+		"dirt",
+		"a jerk",
+		"Fanboy (From Fanboy and Chum Chum)",
+		"Four from BfB",
+		"a gamer",
+		"a Morgz fan",
+		"your mom",
+		"",
+		"",
+		"your #number# @",
+		"beef with #noun#",
+		"@SteffanScripts"
+	],
+	"adj": [
+		"dead",
+		"happy",
+		"depressed",
+		"horny",
+		"beautiful",
+		"cocky",
+		"thicc"
+	],
+	"verbPresent": [
+		"dying",
+		"dabbing",
+		"spying on #noun#",
+		"kidnaps#noun#",
+		"falling into the River in LEGO City",
+		"killing #noun#",
+		"fucks #noun#",
+		"stans #ships#",
+		"stans #noun#",
+		"ships #ships#"
+	],
+	"verbPast": [
+		"died",
+		"dabbed",
+		"spied on #noun#",
+		"kidnapped #noun#",
+		"killed #noun#",
+		"stanned #ships# ",
+		"stanned #noun#",
+		"shipped #ships#"
+	],
+	"verbFuture": [
+		"die",
+		"dab",
+		"spy on #noun#",
+		"kidnap #noun#",
+		" fall into the River in LEGO City",
+		"kill #noun#",
+		"stan #noun#",
+		"ship #ships#"
+	],
+	"interjection": [
+		"Wow",
+		"Dude",
+		"Bro",
+		"Holy Shit",
+		"No",
+		"Yes"
+	],
+	"Ships": [
+		"Nobody",
+		"Spongy x Barf Bag (Battle for BFDI)",
+		"Test Tube x Lightbulb (Inanimate Insanity II)",
+		"",
+		"Taco x Book (Battle For BFDI)"
+	]
 }
